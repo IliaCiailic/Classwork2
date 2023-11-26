@@ -1,0 +1,13 @@
+img{
+    Width:90%;
+}
+div p {
+    color:purple;
+}
+.content + .footer{
+    font-style:italic;
+}
+.header > h2 {
+    font-size:40px;
+    color:red;
+}
